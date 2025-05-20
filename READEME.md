@@ -11,9 +11,3 @@ This project is a relational database system designed for managing a clinic's ap
 - Store and retrieve prescriptions
 - Track billing and payment status
 
-## ⚙️ How to Set Up
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/clinic-booking-system.git
-   cd clinic-booking-system
